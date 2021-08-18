@@ -2,6 +2,6 @@
 color a
 cls
 ::------------
-start https://www.youtube.com/channel/UCe0S2yIPRb_ZSXUWQUdTL3g
+start https://www.youtube.com/watch?v=DrNU1JCBISg
 ::------------
 exit
